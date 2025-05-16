@@ -1,0 +1,1 @@
+DB_NAME = "zoo_shop.db"
